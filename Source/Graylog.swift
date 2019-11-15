@@ -7,6 +7,7 @@
 //
 
 import Foundation
+import UIKit
 
 /// Logger in charge of sending logs to Graylog.
 /// If a log upload fails it will store pending logs locally (in the user defaults).
